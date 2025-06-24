@@ -1,0 +1,13 @@
+{
+  "name": "red",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Red Herring Technologies",
+  "devDependencies": {
+    "electron": "^23.2.0"
+  }
+}
