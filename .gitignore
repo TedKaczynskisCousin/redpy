@@ -1,5 +1,5 @@
-opencvpy/__pycache__
-screenshotter/__pycache__
+opencvpy/__pycache__/
+screenshotter/__pycache__/
 
 # Logs
 logs
